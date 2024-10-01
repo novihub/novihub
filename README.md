@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/novihub">
-    <img src="https://github.com/novihub/novihub/logo.png" alt="Novikoff Max" /></a>
+    <img src="https://github.com/novihub/novihub/blob/master/logo.png" alt="Novikoff Max" /></a>
 </p>
 
 <p align="center">
