@@ -13,7 +13,7 @@
 
 ### Hey 👋, I'm Max
 
-I'm a Computer Science bachelor's student passionate about solving complicated problems and creating software solutions 🤖. 
+I'm a Computer Science bachelor's student passionate about solving complicated problems and creating software solutions 🤖.      
 I ❤️ development and enjoy working on interesting web and mobile projects.
 
 <!-- Light Mode -->
