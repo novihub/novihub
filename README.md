@@ -24,38 +24,28 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
     <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=novihub&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Novikoff's Github stats" />
   </a>
 </div>
+
+
 <p align="center">
 
-<a href="https://stealthanthrax.github.io" target="_blank">
+<a href="https://novicode.me" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@sansyrox" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/sanskar123" target="_blank">
+<a href="https://linkedin.com/in/novitech" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/sansyrox" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://bsky.app/profile/novihype.bsky.social" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Bluesky-0061F2?style=for-the-badge&logo=bluesky&logoColor=white" />
 </a>
 
-<a href="https://www.reddit.com/user/stealthanthrax" target="_blank">
+<a href="https://www.reddit.com/user/stealthanthrax" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
-<a href="https://github.com/sansyrox" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://t.me/sansyrox" target="_blank">
+<a href="https://t.me/novihtpe" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="https://open.spotify.com/user/22jffys2vvo5gpuf4ooozafta?si=G--M2ERgTtWdwCXo6wf1jA" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
 </p>
@@ -63,9 +53,6 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=novihub&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Novikoff's Language stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=novihub&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Novikoff's Github stats" />
   </a>
 </div>
 
@@ -96,10 +83,8 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-&nbsp;  
+&nbsp;
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" width="120"/>
 </div>
-
-
