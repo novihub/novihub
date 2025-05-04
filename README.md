@@ -29,7 +29,6 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
   </a>
 </div>
 
-
 <p align="center">
 
 <a href="https://novicode.me" target="_blank" rel="noopener noreferrer">
@@ -44,11 +43,11 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
   <img src="https://img.shields.io/badge/Bluesky-0061F2?style=for-the-badge&logo=bluesky&logoColor=white" />
 </a>
 
-<a href="https://www.reddit.com/user/stealthanthrax" target="_blank" rel="noopener noreferrer">
+<a href="https://www.reddit.com/user/novihype" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
-<a href="https://t.me/novihtpe" target="_blank" rel="noopener noreferrer">
+<a href="https://t.me/novihype" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
@@ -58,6 +57,10 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=novihub&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Novikoff's Language stats" />
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+   <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=novihub&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Novikoff's Github stats" />
+  </a>
+      
 </div>
 
 <div align="center">
