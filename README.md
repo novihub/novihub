@@ -1,20 +1,24 @@
-<p align="center">
-  <a href="https://github.com/novihub">
-    <img src="https://github.com/novihub/novihub/blob/master/logo.png" alt="Novikoff Max" width="200" style="border-radius: 50%; border: 2px solid #4CAF50;"/>
-  </a>
-</p>
+![](https://hit.yhype.me/github/profile?account_id=144257965)
+
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" />
+</div>
+
 
 <p align="center">
   <a href="https://github.com/novihub">
-<img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer;1%2E5%2B%20years%20of%20coding%20experience;Frontend%20developer%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=React.js%20|%20Node.js%20|%20TypeScript%20Enthusiast;Passionate%20about%20creating%20scalable%20web%20apps;Expert%20in%20TypeScript%2C%20React%2C%20and%20modern%20web%20technologies;Building%20fast%20and%20efficient%20user%20interfaces&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=1000&size=12" />
 
   </a>
 </p>
 
 ### Hey 👋, I'm Max
 
-I'm a Computer Science bachelor's student passionate about solving complicated problems and creating software solutions 🤖.  
-I ❤️ development and enjoy working on interesting web and mobile projects.
+I'm an undergraduate Computer Science student passionate about solving complex problems and building smart software solutions 🤖.
+I love development and enjoy working on interesting web and mobile projects.
+
+Dive in, star, fork, or just lurk—whatever floats your boat.
 
 ---
 
@@ -26,6 +30,41 @@ I ❤️ development and enjoy working on interesting web and mobile projects.
     <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=novihub&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Novikoff's Github stats" />
   </a>
 </div>
+<p align="center">
+
+<a href="https://stealthanthrax.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@sansyrox" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/sanskar123" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/sansyrox" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.reddit.com/user/stealthanthrax" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+
+<a href="https://github.com/sansyrox" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://t.me/sansyrox" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://open.spotify.com/user/22jffys2vvo5gpuf4ooozafta?si=G--M2ERgTtWdwCXo6wf1jA" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+</p>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -34,4 +73,31 @@ I ❤️ development and enjoy working on interesting web and mobile projects.
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="259" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=novihub&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Novikoff's Github stats" />
   </a>
+</div>
+
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/kazakhstanparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
