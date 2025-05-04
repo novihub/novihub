@@ -97,10 +97,9 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
 </div>
 
 &nbsp;  
-&nbsp;
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" width="120"/>
 </div>
 
 
