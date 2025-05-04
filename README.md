@@ -100,7 +100,7 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
 &nbsp;
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" width="100"/>
 </div>
 
 
