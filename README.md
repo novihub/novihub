@@ -1,11 +1,5 @@
 ![](https://hit.yhype.me/github/profile?account_id=144257965)
 
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" />
-</div>
-
-
 <p align="center">
   <a href="https://github.com/novihub">
 <img src="https://readme-typing-svg.demolab.com/?lines=React.js%20|%20Node.js%20|%20TypeScript%20Enthusiast;Passionate%20about%20creating%20scalable%20web%20apps;Expert%20in%20TypeScript%2C%20React%2C%20and%20modern%20web%20technologies;Building%20fast%20and%20efficient%20user%20interfaces&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=1000&size=12" />
@@ -101,3 +95,12 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
+
+&nbsp;  
+&nbsp;
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=novihub&style=for-the-badge" />
+</div>
+
+
