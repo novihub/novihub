@@ -15,11 +15,6 @@
   </a>
 </p>
 
-### Hey 👋, I'm Max
-
-I'm an undergraduate Computer Science student passionate about solving complex problems and building smart software solutions 🤖.
-I love development and enjoy working on interesting web and mobile projects.
-
 Dive in, star, fork, or just lurk—whatever floats your boat.
 
 ---
