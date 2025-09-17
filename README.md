@@ -30,7 +30,7 @@ Dive in, star, fork, or just lurk—whatever floats your boat.
 
 <p align="center">
 
-<a href="https://novicode.me" target="_blank" rel="noopener noreferrer">
+<a href="https://ceo.novitech.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Firefox&logoColor=white" />
 </a>
 
