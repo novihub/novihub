@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?account_id=144257965)
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/54/0b/6d/540b6dc548563ffc02193ebf60349d82.gif"  />
+  <img height="150" src="./IMG_5818.jpg"  />
 </div>
 
 <div align="right">
